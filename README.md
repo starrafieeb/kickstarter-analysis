@@ -45,4 +45,5 @@ Refer to “Outcomes Based on Goals” chart, it’s obvious that we have only t
 ![Outcomes_based_on_Goals](/resources/Outcomes_based_on_Goals.png)
 
 
-
+### Summary of the limitation of the data set
+As a data analyst, I found some column that they were useless; like "Staff_Pick" and "Spotlight". Also, as I said before I used the "Text to Column" tool to organize "Category and Subcategory" column, to be able to sort it by Subcategory and then apply "Plays" filter. 
